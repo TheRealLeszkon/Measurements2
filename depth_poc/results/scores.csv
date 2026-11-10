@@ -1,0 +1,49 @@
+object,gt_width_cm,gt_height_cm,gt_depth_cm,view,model,n_pts,width_cm,height_cm,depth_cm,height_err_pct,width_err_pct,width_err_pct_vs_top,depth_err_pct
+Printer,44,16,33,45angle,depth_pro,21475,52.1,28.4,16.0,+77.3%,,,
+Printer,44,16,33,45angle,metric3d,21475,65.6,55.3,67.2,+245.6%,,,
+Printer,44,16,33,Front,depth_pro,29471,23.5,43.2,12.1,+169.8%,-46.5%,,
+Printer,44,16,33,Front,metric3d,29471,31.2,53.4,17.5,+233.8%,-29.2%,,
+Printer,44,16,33,Side,depth_pro,167353,48.8,43.0,31.6,+169.0%,,,-4.2%
+Printer,44,16,33,Side,metric3d,167353,83.6,74.9,59.6,+367.9%,,,+80.7%
+FootRestBox,38,34.5,38,45angle,depth_pro,3729,21.6,14.4,18.9,-58.3%,,,
+FootRestBox,38,34.5,38,45angle,metric3d,3729,30.2,22.1,28.2,-36.0%,,,
+FootRestBox,38,34.5,38,Front,depth_pro,225393,35.8,41.4,18.6,+20.1%,-5.7%,,
+FootRestBox,38,34.5,38,Front,metric3d,225393,56.0,69.7,45.8,+102.0%,+47.2%,,
+FootRestBox,38,34.5,38,Side,depth_pro,326844,39.6,47.9,20.4,+38.8%,,,-46.4%
+FootRestBox,38,34.5,38,Side,metric3d,326844,80.2,98.6,45.6,+185.7%,,,+20.1%
+Dustbin,29,33,30,45angle,depth_pro,141320,29.5,40.2,20.0,+21.9%,,,
+Dustbin,29,33,30,45angle,metric3d,141320,32.8,45.1,25.2,+36.8%,,,
+Dustbin,29,33,30,Front,depth_pro,173220,34.3,45.5,23.3,+37.9%,+18.4%,,
+Dustbin,29,33,30,Front,metric3d,173220,41.4,58.0,31.1,+75.9%,+42.7%,,
+Dustbin,29,33,30,Side,depth_pro,82511,30.0,108.8,36.5,+229.6%,,,+21.6%
+Dustbin,29,33,30,Side,metric3d,82511,40.7,142.5,51.7,+331.7%,,,+72.3%
+CardboardBox,28.5,38,8,45angle,depth_pro,10485,40.5,17.4,27.5,-54.2%,,,
+CardboardBox,28.5,38,8,45angle,metric3d,10485,44.7,18.5,38.5,-51.4%,,,
+CardboardBox,28.5,38,8,Front,depth_pro,327658,40.5,51.3,17.5,+35.0%,+42.2%,,
+CardboardBox,28.5,38,8,Front,metric3d,327658,52.2,66.8,26.3,+75.8%,+83.1%,,
+CardboardBox,28.5,38,8,Side,depth_pro,137949,52.5,85.9,38.1,+126.0%,,,+376.7%
+CardboardBox,28.5,38,8,Side,metric3d,137949,69.5,111.9,50.3,+194.4%,,,+528.9%
+PS5,26,40.5,9,45angle,depth_pro,130435,23.3,46.1,33.0,+13.9%,,,
+PS5,26,40.5,9,45angle,metric3d,130435,34.6,70.7,40.9,+74.5%,,,
+PS5,26,40.5,9,Front,depth_pro,27564,41.1,89.2,85.0,+120.1%,+58.1%,,
+PS5,26,40.5,9,Front,metric3d,27564,38.9,116.4,84.3,+187.3%,+49.7%,,
+PS5,26,40.5,9,Side,depth_pro,140183,45.7,93.3,42.9,+130.3%,,,+376.3%
+PS5,26,40.5,9,Side,metric3d,140183,58.8,122.1,47.6,+201.5%,,,+428.4%
+Table,31,77,91,45angle,depth_pro,265169,74.9,90.8,66.9,+17.9%,,,
+Table,31,77,91,45angle,metric3d,265169,89.2,110.5,87.1,+43.5%,,,
+Table,31,77,91,Front,depth_pro,7915,24.1,9.5,2.4,-87.7%,-22.3%,,
+Table,31,77,91,Front,metric3d,7915,27.6,10.5,3.7,-86.4%,-10.9%,,
+Table,31,77,91,Side,depth_pro,42344,46.9,36.5,72.5,-52.6%,,,-20.3%
+Table,31,77,91,Side,metric3d,42344,62.7,49.6,102.9,-35.6%,,,+13.1%
+ToolBox,42,19.5,20,45angle,depth_pro,176753,89.1,68.6,51.4,+252.0%,,,
+ToolBox,42,19.5,20,45angle,metric3d,176753,125.4,98.3,70.3,+403.9%,,,
+ToolBox,42,19.5,20,Front,depth_pro,253838,47.0,29.4,17.2,+51.0%,+11.9%,,
+ToolBox,42,19.5,20,Front,metric3d,253838,88.0,60.5,51.9,+210.3%,+109.5%,,
+ToolBox,42,19.5,20,Side,depth_pro,18658,12.0,52.9,29.0,+171.4%,,,+44.8%
+ToolBox,42,19.5,20,Side,metric3d,18658,19.2,75.3,43.7,+286.3%,,,+118.7%
+Ladder,30/52 (top/bottom),172,14,45angle,depth_pro,241385,36.2,159.9,40.8,-7.0%,,,
+Ladder,30/52 (top/bottom),172,14,45angle,metric3d,241385,46.9,202.0,64.4,+17.5%,,,
+Ladder,30/52 (top/bottom),172,14,Front,depth_pro,278973,45.2,168.2,21.9,-2.2%,-13.1%,+50.7%,
+Ladder,30/52 (top/bottom),172,14,Front,metric3d,278973,60.6,223.0,41.2,+29.7%,+16.5%,+102.0%,
+Ladder,30/52 (top/bottom),172,14,Side,depth_pro,10211,30.5,36.6,8.8,-78.7%,,,-37.3%
+Ladder,30/52 (top/bottom),172,14,Side,metric3d,10211,29.3,37.2,16.0,-78.4%,,,+14.3%

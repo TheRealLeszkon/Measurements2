@@ -1,0 +1,73 @@
+{
+  "rows": [
+    {
+      "item": "PS5",
+      "view": "45angle",
+      "model": "depth_pro",
+      "n_mask_points": 130435,
+      "apparent_width_cm": 23.34616002184515,
+      "apparent_height_cm": 46.138990551975596,
+      "apparent_depth_cm": 33.01217913627623,
+      "height_err_pct": 13.92343346166814
+    },
+    {
+      "item": "PS5",
+      "view": "45angle",
+      "model": "metric3d",
+      "n_mask_points": 130435,
+      "apparent_width_cm": 34.55709945570846,
+      "apparent_height_cm": 70.67684772387175,
+      "apparent_depth_cm": 40.8882517814636,
+      "height_err_pct": 74.51073512067099
+    },
+    {
+      "item": "PS5",
+      "view": "Front",
+      "model": "depth_pro",
+      "n_mask_points": 27564,
+      "apparent_width_cm": 41.105333336274114,
+      "apparent_height_cm": 89.15276413499092,
+      "apparent_depth_cm": 84.97018098831161,
+      "height_err_pct": 120.1302818147924,
+      "width_err_pct_vs_width_cm": 58.09743590874659
+    },
+    {
+      "item": "PS5",
+      "view": "Front",
+      "model": "metric3d",
+      "n_mask_points": 27564,
+      "apparent_width_cm": 38.90946485219087,
+      "apparent_height_cm": 116.3602969877708,
+      "apparent_depth_cm": 84.28613567352289,
+      "height_err_pct": 187.30937527844642,
+      "width_err_pct_vs_width_cm": 49.65178789304181
+    },
+    {
+      "item": "PS5",
+      "view": "Side",
+      "model": "depth_pro",
+      "n_mask_points": 140183,
+      "apparent_width_cm": 45.682404584210744,
+      "apparent_height_cm": 93.27939459783975,
+      "apparent_depth_cm": 42.87123823165891,
+      "height_err_pct": 130.31949283417222,
+      "depth_err_pct": 376.34709146287673
+    },
+    {
+      "item": "PS5",
+      "view": "Side",
+      "model": "metric3d",
+      "n_mask_points": 140183,
+      "apparent_width_cm": 58.76544369133819,
+      "apparent_height_cm": 122.10767384848351,
+      "apparent_depth_cm": 47.55456733703611,
+      "height_err_pct": 201.50042925551486,
+      "depth_err_pct": 428.38408152262343
+    }
+  ],
+  "ground_truth_cm": {
+    "width_cm": 26,
+    "height_cm": 40.5,
+    "depth_cm": 9
+  }
+}

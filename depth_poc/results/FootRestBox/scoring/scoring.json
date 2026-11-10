@@ -1,0 +1,73 @@
+{
+  "rows": [
+    {
+      "item": "FootRestBox",
+      "view": "45angle",
+      "model": "depth_pro",
+      "n_mask_points": 3729,
+      "apparent_width_cm": 21.600553816609622,
+      "apparent_height_cm": 14.390575360186286,
+      "apparent_depth_cm": 18.873249053955064,
+      "height_err_pct": -58.28818736177888
+    },
+    {
+      "item": "FootRestBox",
+      "view": "45angle",
+      "model": "metric3d",
+      "n_mask_points": 3729,
+      "apparent_width_cm": 30.239892125368844,
+      "apparent_height_cm": 22.080324796492622,
+      "apparent_depth_cm": 28.174984931945836,
+      "height_err_pct": -35.999058560890944
+    },
+    {
+      "item": "FootRestBox",
+      "view": "Front",
+      "model": "depth_pro",
+      "n_mask_points": 225393,
+      "apparent_width_cm": 35.82694060012812,
+      "apparent_height_cm": 41.44579794677004,
+      "apparent_depth_cm": 18.595606088638306,
+      "height_err_pct": 20.132747671797222,
+      "width_err_pct_vs_width_cm": -5.718577368083899
+    },
+    {
+      "item": "FootRestBox",
+      "view": "Front",
+      "model": "metric3d",
+      "n_mask_points": 225393,
+      "apparent_width_cm": 55.95356868928071,
+      "apparent_height_cm": 69.70441920184382,
+      "apparent_depth_cm": 45.752542972564704,
+      "height_err_pct": 102.04179478795311,
+      "width_err_pct_vs_width_cm": 47.24623339284397
+    },
+    {
+      "item": "FootRestBox",
+      "view": "Side",
+      "model": "depth_pro",
+      "n_mask_points": 326844,
+      "apparent_width_cm": 39.563691128669554,
+      "apparent_height_cm": 47.8785927283509,
+      "apparent_depth_cm": 20.371476769447337,
+      "height_err_pct": 38.77852964739392,
+      "depth_err_pct": -46.39085060671753
+    },
+    {
+      "item": "FootRestBox",
+      "view": "Side",
+      "model": "metric3d",
+      "n_mask_points": 326844,
+      "apparent_width_cm": 80.1802095460598,
+      "apparent_height_cm": 98.5834014944067,
+      "apparent_depth_cm": 45.62287306785584,
+      "height_err_pct": 185.74898983885998,
+      "depth_err_pct": 20.060192283831164
+    }
+  ],
+  "ground_truth_cm": {
+    "width_cm": 38,
+    "height_cm": 34.5,
+    "depth_cm": 38
+  }
+}

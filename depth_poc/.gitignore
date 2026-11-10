@@ -1,0 +1,8 @@
+depth_pro_repo/
+metric3d_repo/
+checkpoints/
+efficientsam_repo/
+# Keep scored results/summaries/visualizations; ignore only heavy raw depth maps
+results/**/*.npy
+__pycache__/
+*.pyc

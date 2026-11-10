@@ -1,0 +1,30 @@
+# Model weights / checkpoints (large, downloaded separately)
+depth_poc/checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Vendored model repos (git-cloned per README, not committed)
+depth_poc/depth_pro_repo/
+depth_poc/metric3d_repo/
+depth_poc/efficientsam_repo/
+
+# Virtual environment
+depth_poc/.venv/
+.venv/
+venv/
+
+# Heavy regenerable depth maps only — the scored results, summaries and
+# visualizations under results/ are kept in the repo as the experiment's evidence.
+depth_poc/results/**/*.npy
+
+# Scratch / to-be-removed
+_to_delete/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

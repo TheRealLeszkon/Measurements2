@@ -1,0 +1,41 @@
+{
+  "45angle": {
+    "inference_seconds": 0.17831087112426758,
+    "focal_length_px_estimated": 1082.219970703125,
+    "focal_length_px_from_exif": null,
+    "image_size_wh": [
+      900,
+      1600
+    ],
+    "depth_min_m": 1.228255271911621,
+    "depth_max_m": 2.4291889667510986,
+    "depth_median_m": 1.5434339046478271,
+    "depth_mean_m": 1.6224418878555298
+  },
+  "Front": {
+    "inference_seconds": 0.0335848331451416,
+    "focal_length_px_estimated": 1065.7857666015625,
+    "focal_length_px_from_exif": null,
+    "image_size_wh": [
+      900,
+      1600
+    ],
+    "depth_min_m": 1.3175338506698608,
+    "depth_max_m": 8.012567520141602,
+    "depth_median_m": 1.7091542482376099,
+    "depth_mean_m": 2.30566668510437
+  },
+  "Side": {
+    "inference_seconds": 0.03400993347167969,
+    "focal_length_px_estimated": 1159.044189453125,
+    "focal_length_px_from_exif": null,
+    "image_size_wh": [
+      900,
+      1600
+    ],
+    "depth_min_m": 0.283886194229126,
+    "depth_max_m": 4.145998477935791,
+    "depth_median_m": 1.45625901222229,
+    "depth_mean_m": 1.8048442602157593
+  }
+}
